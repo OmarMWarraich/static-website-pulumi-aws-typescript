@@ -1,5 +1,5 @@
 config:
-  aws:region: us-east-1
+  aws:region: us-west-2
   pulumi-checkout:errorDocument: error.html
   pulumi-checkout:indexDocument: index.html
   pulumi-checkout:path: ./www
